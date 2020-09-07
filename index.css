@@ -1,0 +1,7 @@
+html, body {
+    margin: 5px;
+    padding: 0;
+}
+.navbar-custom { 
+    background-color: lightpink; 
+} 
